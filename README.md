@@ -16,3 +16,7 @@ Powered by ZZPeng, Entropy Network
 ## 网站源码
 
 Hanlin Major 网站源代码在[website](https://github.com/ZZPeng-ROOT/HanlinMajor/tree/website)分支中
+
+## 开源协议 Open Source Lincense
+
+- [APACHE LICENSE, VERSION 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt)
